@@ -1,0 +1,6 @@
+lab1: I used the AI assistant as shown in the lecture; to 
+automatically link the latest version of Boostrap into my
+request-form.html page.  I also used it to help debug a
+temporary issue where none of the links on Index.html were
+going to the right location (I'd accessed Index.html through
+the)
