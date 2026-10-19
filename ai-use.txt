@@ -4,3 +4,8 @@ request-form.html page.  I also used it to help debug a
 temporary issue where none of the links on Index.html were
 going to the right location (I'd accessed Index.html through
 the wrong link which was creating incorrect URLs)
+
+lab2: Codespace's built-in AI assistant automatically filled
+in many of the blanks for me, and while I had to make the 
+occasional correction here and there it was still a big help
+when it came to writing code.
