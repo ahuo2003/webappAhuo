@@ -9,3 +9,7 @@ lab2: Codespace's built-in AI assistant automatically filled
 in many of the blanks for me, and while I had to make the 
 occasional correction here and there it was still a big help
 when it came to writing code.
+
+lab3: I had Codespace's built in Ai automatically generate some
+code for me, but it turned out to be faulty.  I instead went to
+ChatGPT and used it to help debug the minor errors.
